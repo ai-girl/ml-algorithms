@@ -7,12 +7,9 @@
 | Regression|[Polynomial Interpolation](https://nbviewer.org/github/NasreenAhmed/ml-agorithms/blob/main/cubic_spline_interpolation.ipynb) |
 | Regression|[Polynomial Regression](https://nbviewer.org/github/NasreenAhmed/ml-agorithms/blob/main/Polynomial_Regression%20%281%29.ipynb) |
 | Regression|[Regression Tree](https://nbviewer.org/github/NasreenAhmed/ml-agorithms/blob/main/Regression_Tree.ipynb) |
-
 | Classification |[Logistic Regression](https://nbviewer.org/github/NasreenAhmed/ml-agorithms/blob/main/logistic_regression.ipynb) | 
 | Classification |[Linear Discriminant Analysis](https://nbviewer.org/github/NasreenAhmed/ml-agorithms/blob/main/linear_discriminant_analysis.ipynb) |
 | Classification|[Decision Classification Tree](https://nbviewer.org/github/NasreenAhmed/ml-agorithms/blob/main/decision_trees.ipynb) |
-
-
 | Supervised - Ensemble Models       |
 | Ensembled Learing |[Random Forest](https://nbviewer.org/github/NasreenAhmed/ml-agorithms/blob/main/random_forest_regressor.ipynb) | 
 | Ensembled Learing |[XGBoost](https://nbviewer.org/github/NasreenAhmed/ml-agorithms/blob/main/XGBoostRegression.ipynb) | 
