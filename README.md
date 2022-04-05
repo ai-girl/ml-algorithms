@@ -17,5 +17,5 @@
 | Unsupervised       |
 | Unsupervised Learning|[PCA](https://nbviewer.org/github/NasreenAhmed/ml-agorithms/blob/main/PCA.ipynb) | 
 | Unsupervised Learning|[SVD Technique](https://nbviewer.org/github/NasreenAhmed/ml-agorithms/blob/main/SVD_%28singular_value_decomposition%29.ipynb) | 
-| Unsupervised Learing |[Clustering](https://github.com/NasreenAhmed/ml-agorithms/blob/main/Clustering.ipynb) |
+| Unsupervised Learing |[Clustering](https://nbviewer.org/github/NasreenAhmed/ml-agorithms/blob/main/Clustering.ipynb) |
 | Gaussian Mixture Model|[Expectation Maximization[EM]](https://github.com/NasreenAhmed/ml-agorithms/blob/main/ExpectationMaximization(EM).ipynb) |
